@@ -1,0 +1,17 @@
+body {
+    background-image: url('../img/fondo.jpg');
+}
+
+.jumbotron{
+    background-color: #560000;
+    color: white;
+}
+
+.panel-heading{
+    background-color: #560000 !important;
+    color: white!important;
+}
+
+.panel-body{
+    background-color: #8f939b !important;
+}
